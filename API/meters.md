@@ -1,9 +1,9 @@
-Create a service to accept Meter Reads
+Create a service to accept meter reads
 ======================================
 
-Thank you for showing interest in working with us!
+Thank you for showing interest in joining the team!
 
-The following test is used to gauge your technical ability and is a precursor to an interview here. You have seven days to complete this task, and you should work with your representative for more information should you need it.
+The following test is used to gauge your technical ability and is a precursor to an interview here at Ecotricity. You have seven days to complete this task, and you should work with your representative for more information should you need it.
 
 ## Intro
 
@@ -36,7 +36,7 @@ Since we are a tech-first company, and service will be business critical, we exp
 
 * You do not have to follow the spec blindly provided you can explain any modifications.
 * You can add to the schema.
-* Customer ID is a unique identifier for a customer, it must always be globally unique
+* Customer ID is a unique identifier for a customer, it must always be globally unique.
 * Serial Number is the meter serial number is used to identify a meter, this number should be unique, however, uniqueness cannot be assured.
-* Register ID is the serial number on the register for that particular register, It can be used to uniquely identify a register, but not an energy supply.
-* MPXN this is the meter point number: MPAN for Electric, MPRN for Gas. This can be used to uniquely identify a supply point.
+* Register ID is the serial number on the register for that particular register. It can be used to uniquely identify a register, but not an energy supply.
+* MPXN is the meter point number: MPAN for Electric, MPRN for Gas. This can be used to uniquely identify a supply point.
